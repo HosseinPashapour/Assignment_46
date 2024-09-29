@@ -106,6 +106,6 @@ learning rate Wieght= 0.0001      learning rate Bias= 0.1        epochs=30
 I show from first step that perceptron started to run to final step that perceptron find the best plane that trough all data.
 another 3D animation of the best plane that perceptron could find in 30 epochs.
 
-![Alt text]([46-3/boston-output.gif](https://github.com/HosseinPashapour/Assignment_46/blob/main/Boston_House_Prices/boston_y_pred.gif))
+![Boston_House_Prices](https://github.com/HosseinPashapour/Assignment_46/blob/main/Boston_House_Prices/boston_y_pred.gif)
 -----------------------------------------
 
